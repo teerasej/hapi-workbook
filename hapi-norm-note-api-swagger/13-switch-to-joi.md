@@ -10,6 +10,11 @@
 แก้จาก
 
 ```js
-- const Joi = require('@hapi/joi');
-+ const Joi = require('joi');
+const Joi = require('@hapi/joi');
+```
+
+เป็น
+
+```js
+const Joi = require('joi');
 ```

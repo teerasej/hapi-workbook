@@ -28,5 +28,8 @@
 
 ## กำหนดและใช้งาน Plugin
 
+> [Hapi Swagger](https://github.com/glennjones/hapi-swagger)
+
 12. [ตั้งค่า และเพิ่ม Swagger Plugin ลง server](12-setup-swagger.md)
 13. [สลับ @hapi/joi มาใช้ joi module](13-switch-to-joi.md)
+14. [ใส่รายละเอียดสำหรับ swagger documentation](14-swagger-document-route.md)
