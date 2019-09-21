@@ -14,3 +14,4 @@
 
 - [Note API (with HapiPal)](hapi-pal-note-api/readme.md)
 - [Note API + Swagger](hapi-norm-note-api-swagger/README.md)
+- [Hapi to Docker](hapi-to-docker/readme.md)
