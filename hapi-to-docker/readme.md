@@ -1,9 +1,10 @@
 
 # Hapi to Docker
 
-## 1. ติดตั้ง Plugin 
+## 1. Setup 
 
-[Docker by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+1. ถ้ายังไม่มี ก็โหลดและติดตั้ง [Docker Desktop](https://www.docker.com/products/docker-desktop)
+2. [VSCode Extension: Docker by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
 ## 2. สร้าง Docker Image ด้วย Dockerfile
 
