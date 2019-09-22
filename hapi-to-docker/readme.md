@@ -8,12 +8,14 @@
 
 ## 2. สร้าง Docker Image ด้วย Dockerfile
 
+> [Docker Hub](https://hub.docker.com/)
+
 สร้างไฟล์ชื่อ `Dockerfile` เป็น Script สำหรับการสร้าง Image  
 
 และเขียน script 
 
 ```dockerfile
-FROM node:10.16.3-jessie-slim
+FROM node:10.16.3-alpine
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
